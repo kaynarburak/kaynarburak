@@ -1,4 +1,3 @@
-<h1 align="left">Hi 👋,</h1>
 <h1>I'm Burak</h1>
 <h3 align="left">A computer engineering student from Turkey</h3>
 
