@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A computer engineering student from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Burak</h1>
+<h3 align="left">A computer engineering student from Turkey</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/kaynarburak](github.com/kaynarburak)
 
